@@ -41,3 +41,16 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+nbproject/project.xml
+.dep.inc
+build/Debug/GNU-Linux-x86/creature.o
+build/Debug/GNU-Linux-x86/creature.o.d
+build/Debug/GNU-Linux-x86/main.o
+build/Debug/GNU-Linux-x86/main.o.d
+dist/Debug/GNU-Linux-x86/console_game
+nbproject/configurations.xml
+*.mk
+*.bash
+nbproject/private/configurations.xml
+nbproject/private/launcher.properties
+nbproject/private/private.xml
